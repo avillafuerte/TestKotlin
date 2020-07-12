@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TestKotlin</string>
+    <string name="app_label">Busqueda articulos</string>
+    <string name="search_hint">Busqueda aos</string>
+
+
+</resources>
